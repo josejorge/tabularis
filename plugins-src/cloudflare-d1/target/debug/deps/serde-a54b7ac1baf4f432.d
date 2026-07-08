@@ -1,0 +1,14 @@
+D:\USER\DEV\tabularis\plugins-src\cloudflare-d1\target\debug\deps\serde-a54b7ac1baf4f432.d: C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\USER\DEV\tabularis\plugins-src\cloudflare-d1\target\debug\build\serde-38142dd3d0018dab\out/private.rs
+
+D:\USER\DEV\tabularis\plugins-src\cloudflare-d1\target\debug\deps\libserde-a54b7ac1baf4f432.rlib: C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\USER\DEV\tabularis\plugins-src\cloudflare-d1\target\debug\build\serde-38142dd3d0018dab\out/private.rs
+
+D:\USER\DEV\tabularis\plugins-src\cloudflare-d1\target\debug\deps\libserde-a54b7ac1baf4f432.rmeta: C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\USER\DEV\tabularis\plugins-src\cloudflare-d1\target\debug\build\serde-38142dd3d0018dab\out/private.rs
+
+C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\email\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+D:\USER\DEV\tabularis\plugins-src\cloudflare-d1\target\debug\build\serde-38142dd3d0018dab\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\USER\\DEV\\tabularis\\plugins-src\\cloudflare-d1\\target\\debug\\build\\serde-38142dd3d0018dab\\out
